@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = conanduval-manahan@outlook.com
+	name = Conan Duval-Manahan
